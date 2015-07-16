@@ -210,7 +210,7 @@
   <project groups="pdk-cw-fs" name="platform/external/mockwebserver" path="external/mockwebserver"/>
   <project groups="pdk-cw-fs" name="platform/external/mp4parser" path="external/mp4parser"/>
   <project groups="pdk-cw-fs" name="platform/external/mtpd" path="external/mtpd"/>
-  <project name="platform/external/nanohttpd" path="external/nanohttpd"/>
+  <project name="CAF-X/android_external_nanohttpd" path="external/nanohttpd" remote="gh"/>
   <project name="platform/external/nanopb-c" path="external/nanopb-c"/>
   <project groups="pdk-cw-fs" name="platform/external/naver-fonts" path="external/naver-fonts"/>
   <project groups="pdk-cw-fs" name="platform/external/netcat" path="external/netcat"/>
@@ -280,7 +280,7 @@
   <project groups="pdk-cw-fs" name="CAF-X/platform_frameworks_base" path="frameworks/base" remote="github"/>
   <project groups="pdk" name="platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc"/>
   <project groups="pdk" name="platform/frameworks/compile/mclinker" path="frameworks/compile/mclinker"/>
-  <project groups="pdk" name="platform/frameworks/compile/slang" path="frameworks/compile/slang"/>
+  <project groups="pdk" name="CAF-X/android_frameworks_compile_slang" path="frameworks/compile/slang" remote="gh"/>
   <project groups="pdk-cw-fs" name="platform/frameworks/ex" path="frameworks/ex"/>
   <project groups="pdk-cw-fs" name="platform/frameworks/mff" path="frameworks/mff"/>
   <project groups="pdk-cw-fs" name="platform/frameworks/minikin" path="frameworks/minikin"/>
